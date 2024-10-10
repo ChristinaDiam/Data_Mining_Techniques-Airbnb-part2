@@ -9,7 +9,7 @@ The third part is **"Cosine Similarity and Semantic neighborhoods"**, the simila
 
 1. Maximum similarity of neighborhoods
 2. Correlation of neighborhood similarities
-3. Sum of squared neighborhood similarities.
+3. Sum of squared neighborhood similarities. 
 
 ## Authors
 
