@@ -11,7 +11,7 @@ The third part is **"Cosine Similarity and Semantic neighborhoods"**, the simila
 2. Correlation of neighborhood similarities
 3. Sum of squared neighborhood similarities. 
 
-## Authors
+## Contributors
 
 [Christina Diamanti](https://github.com/ChristinaDiam)  
 [Ilias Marras](https://github.com/IliasMr)
